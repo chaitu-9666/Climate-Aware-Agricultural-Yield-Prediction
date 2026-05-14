@@ -89,3 +89,17 @@ See `docs/ARCHITECTURE.md` for a component diagram and rationale.
 ## License
 
 MIT — suitable for academic portfolios and coursework; add your own license file if redistributing.
+
+# Screenshots
+
+## Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+## Prediction Results
+![Prediction Results](screenshots/prediction1.png)
+
+## SHAP Feature Importance
+![Feature Importance](screenshots/yield_Prediction.png)
+
+## Climate Analytics
+![Climate Analytics](screenshots/Yield_Prediction2.png)
