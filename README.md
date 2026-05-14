@@ -93,10 +93,10 @@ MIT — suitable for academic portfolios and coursework; add your own license fi
 # Screenshots
 
 ## Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ## Prediction Results
-![Prediction Results](screenshots/prediction1.png)
+![Prediction Results](screenshots/Prediction1.png)
 
 ## SHAP Feature Importance
 ![Feature Importance](screenshots/yield_Prediction.png)
