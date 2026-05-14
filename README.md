@@ -14,7 +14,10 @@ The repository is intentionally modular: data science logic lives in `utils/` an
 - **Dashboard**: Streamlit tabs for QC, training, climate analytics, SHAP, and batch inference with Plotly charts.
 - **Serving**: FastAPI endpoints for JSON and CSV batch scoring.
 - **Deployment**: multi-service `docker-compose`, single `Dockerfile`, environment-driven paths for AWS-style artifact layout.
+- 
+## Live Demo
 
+[Open Application](https://climate-aware-agricultural-yield-prediction-gqdnqwczncc9noxe3n.streamlit.app/)
 ## Repository layout
 
 ```
